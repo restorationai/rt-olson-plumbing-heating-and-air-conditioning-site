@@ -1,8 +1,8 @@
 ---
 archetype: "home"
-title: "RT Olson Plumbing, Heating and Air Conditioning | Plumbing, Heating & Air in Corona, CA"
-h1: "24/7 Plumbing, Heating and Air in Corona"
-meta_description: "RT Olson Plumbing, Heating and Air Conditioning provides 24/7 emergency plumbing plus heating and air conditioning service across Corona and surrounding areas. Licensed and insured. Call (951) 344-5596."
+title: "Plumber in Corona, CA | RT Olson Plumbing, Heating and Air Conditioning"
+h1: "24/7 Plumber in Corona: Plumbing, Heating and Air"
+meta_description: "Your local Corona plumber for 24/7 emergency plumbing, drain cleaning, leak detection and water heater repair, plus heating and air conditioning. Licensed and insured. Call (951) 344-5596."
 primary_keyword: "plumber corona"
 secondary_keywords: ["plumber near me", "emergency plumber corona", "hvac company corona"]
 search_intent: "local_commercial"

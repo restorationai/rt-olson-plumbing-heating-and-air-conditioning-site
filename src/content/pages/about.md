@@ -1,8 +1,8 @@
 ---
 archetype: "about"
-title: "About RT Olson Plumbing, Heating and Air Conditioning | Corona Plumbing & HVAC Company"
+title: "About RT Olson | Corona Plumber and Plumbing Company Since 2014"
 h1: "About RT Olson Plumbing, Heating and Air Conditioning"
-meta_description: "RT Olson Plumbing, Heating and Air Conditioning has served Corona since 2014. Meet our licensed plumbing and HVAC team. Licensed, insured, locally owned."
+meta_description: "RT Olson Plumbing, Heating and Air Conditioning has been a Corona plumber since 2014. Meet our licensed plumbing and HVAC team. Licensed, insured, locally owned."
 primary_keyword: "rt olson plumbing, heating and air conditioning corona"
 secondary_keywords: ["local plumbing company", "licensed plumbing contractor", "insured hvac contractor"]
 search_intent: "navigational_trust"

@@ -1,8 +1,8 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | RT Olson Plumbing, Heating and Air Conditioning Plumbing, Heating & Air"
-h1: "Areas We Serve"
-meta_description: "RT Olson Plumbing, Heating and Air Conditioning provides plumbing, heating, and air conditioning service across Corona and the surrounding region. Find your city."
+title: "Plumber Service Areas Near Corona | RT Olson Plumbing, Heating and Air Conditioning"
+h1: "Plumbing Service Areas"
+meta_description: "Find a licensed plumber near you. RT Olson Plumbing, Heating and Air Conditioning provides plumbing, drain, water heater, heating and air conditioning service across Corona and the surrounding region."
 primary_keyword: "rt olson plumbing, heating and air conditioning service areas"
 secondary_keywords: ["plumber service area", "cities we serve", "local hvac coverage"]
 search_intent: "navigational_local"

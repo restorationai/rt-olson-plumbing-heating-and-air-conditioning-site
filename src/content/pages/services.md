@@ -1,8 +1,8 @@
 ---
 archetype: "services-hub"
-title: "Plumbing, Heating & Air Services in Corona | RT Olson Plumbing, Heating and Air Conditioning"
-h1: "Our Plumbing, Heating & Air Services"
-meta_description: "Full-service plumbing, heating and air conditioning in Corona: repairs, installs, drain cleaning, water heaters, and HVAC. Call (951) 344-5596."
+title: "Plumbing Services in Corona, CA | Plumber, Heating & Air | RT Olson"
+h1: "Our Plumbing Services, Plus Heating & Air"
+meta_description: "Plumbing services in Corona from a licensed plumber: emergency plumbing, drain cleaning, leak detection, repiping and water heaters, plus heating and air conditioning. Call (951) 344-5596."
 primary_keyword: "plumbing services corona"
 secondary_keywords: ["plumbing and hvac services", "licensed plumber services", "heating and air conditioning services"]
 search_intent: "local_commercial"
