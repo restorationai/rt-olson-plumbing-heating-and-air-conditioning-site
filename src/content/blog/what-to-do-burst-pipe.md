@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff if I have never looked f
 published_at: "2026-08-17"
 services: ["burst-pipe-repair", "emergency-plumbing"]
 rendered: true
+author: "Bob Olson"
 ---
 If a pipe has just burst in your home, do these four things right now: **shut off the main water supply, cut power to affected rooms, open a cold tap to drain pressure, and call a licensed plumber.** Everything else, the cleanup, the insurance call, the drywall repair, comes after those four steps. The next ten minutes will determine how much water soaks into your framing, insulation, and flooring, so move fast but move in order.
 

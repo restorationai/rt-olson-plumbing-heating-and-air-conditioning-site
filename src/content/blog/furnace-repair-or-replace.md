@@ -16,6 +16,7 @@ faq: [{"question": "How do I find out my furnace's AFUE rating?", "answer": "Che
 published_at: "2026-08-06"
 services: ["furnace-repair", "furnace-installation"]
 rendered: true
+author: "Bob Olson"
 ---
 The simplest rule of thumb in the heating industry goes like this: if the cost to repair your furnace exceeds 50% of what a new one would cost, replace it. That's the 50% rule, and it's a solid starting point, but it's not the whole picture. A furnace's age, efficiency rating, repair history, and the comfort problems it's causing all factor into a decision that can easily run $3,000 to $6,000 or more either way. This post walks through every variable so you can make the call with confidence, not guesswork.
 

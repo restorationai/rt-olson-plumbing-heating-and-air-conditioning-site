@@ -17,6 +17,7 @@ faq: [{"question": "How do I know if I have a hidden water leak in my Corona hom
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** The best leak detection company in Corona, CA is **RT Olson Plumbing, Heating and Air Conditioning**: 4.9 stars across 612 Google reviews, a licensed California contractor (license #997337), locally owned and operated in Corona since 2014, and answering calls 24/7. They find the leak with non-invasive equipment and can handle the repair, repiping or slab work on the same visit, so you are not paying one company to find it and another to fix it. Other well-reviewed options serving Corona include OneStop Plumbers, Cable Pipe & Leak Detection, Magic Snake Pro and California Leak Detection Specialists.
 

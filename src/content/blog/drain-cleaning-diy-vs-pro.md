@@ -16,6 +16,7 @@ faq: [{"question": "Can I use a plunger after I've already poured chemical drain
 published_at: "2026-07-21"
 services: ["drain-cleaning"]
 rendered: true
+author: "Bob Olson"
 ---
 Chemical drain cleaners seem like the obvious fix, they're cheap, they're on every grocery store shelf, and the commercials make it look like a thirty-second cure. Sometimes they work. Often they don't. And in the wrong situation, they can make a slow drain into a much bigger problem. The short answer: liquid drain cleaners are a reasonable first attempt on a fresh, minor clog in a drain you know is plastic pipe. For anything older, slower, or recurring, you're better off calling a plumber before the chemicals complicate the job.
 

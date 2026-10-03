@@ -17,6 +17,7 @@ faq: [{"question": "What does a C-36 license cover in California?", "answer": "A
 published_at: "2026-09-18"
 services: ["water-heater-installation", "repiping", "gas-line-services"]
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** In California, a licensed plumber holds a C-36 Plumbing Contractor license issued by the Contractors State License Board (CSLB). Any plumbing job valued over $500 in labor and materials requires a licensed contractor. You can verify any plumber's license number on the CSLB website in about 60 seconds. Hiring unlicensed means no bond protection, no workers' comp coverage, and potential liability if something goes wrong on your property.
 

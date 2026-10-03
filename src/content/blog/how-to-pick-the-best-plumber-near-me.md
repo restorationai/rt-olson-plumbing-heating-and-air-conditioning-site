@@ -17,6 +17,7 @@ faq: [{"question": "How many plumbing quotes should I get before hiring?", "answ
 published_at: "2026-09-08"
 services: ["emergency-plumbing", "leak-detection", "drain-cleaning"]
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** The best plumber near you is licensed and insured, gives you a written itemized estimate before touching anything, and can answer "is that the total installed price including parts, labor, permits, disposal, and the call-out fee?" with a clear yes. Get at least two quotes for any job over $300. The cheapest bid is rarely the best deal once you factor in callbacks, incomplete work, and missing permits.
 

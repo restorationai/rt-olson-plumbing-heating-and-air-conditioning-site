@@ -17,6 +17,7 @@ faq: [{"question": "Why is my air conditioner blowing air but not cooling?", "an
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Warm air from the vents usually means a dirty condenser coil, a low refrigerant charge, or a failed capacitor, not always a dying system. Cooling repair in Chino typically runs $150 to $650 for common fixes like capacitors, contactors, or a refrigerant top-off, and $1,200 or more for a compressor. If the system is past 12 years old and the repair quote runs near half the cost of a new unit, replacement usually wins on total cost of ownership.
 

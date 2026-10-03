@@ -16,6 +16,7 @@ faq: [{"question": "Can a tankless water heater truly supply unlimited hot water
 published_at: "2026-08-09"
 services: ["water-heater-installation"]
 rendered: true
+author: "Bob Olson"
 ---
 Both types heat your water and both will last years if maintained, but they work very differently, and the right choice depends on your household size, how your home is set up, and what you want to spend now versus later. The short answer: a tank water heater costs less upfront and is simpler to replace, while a tankless unit costs more to install but uses less energy and never runs out of hot water mid-shower. Neither is universally better. What follows breaks down the real-world differences so you can make the call with confidence.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How do I find out how old my water heater is?", "answer": "C
 published_at: "2026-07-29"
 services: ["water-heater-repair", "water-heater-installation"]
 rendered: true
+author: "Bob Olson"
 ---
 Most tank water heaters last **8 to 12 years**. Tankless units typically run **15 to 20 years** before they need replacing. Those ranges assume the unit has been flushed periodically, the anode rod has been replaced when needed, and the water supply isn't unusually hard or corrosive. If your water heater is inside that window and acting up, repair is often worth it. If it's past it, or if the repair cost is climbing toward half the price of a new unit, replacement usually makes more financial sense. Here's how to think through the decision.
 

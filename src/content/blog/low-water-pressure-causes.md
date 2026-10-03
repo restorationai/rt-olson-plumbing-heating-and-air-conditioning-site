@@ -16,6 +16,7 @@ faq: [{"question": "How do I test my home's water pressure without special equip
 published_at: "2026-08-12"
 services: ["repiping", "leak-detection"]
 rendered: true
+author: "Bob Olson"
 ---
 Low water pressure in your house usually traces back to one of a handful of causes: a partially closed shutoff valve, a failing pressure regulator, mineral buildup inside aging pipes, or an active leak somewhere in the system. Most of these you can diagnose yourself in under 20 minutes. A few of them, particularly hidden leaks and corroded galvanized pipes, need a plumber before they turn into something much more expensive. Here is how to work through the list systematically.
 

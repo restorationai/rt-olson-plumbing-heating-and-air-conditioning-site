@@ -16,6 +16,7 @@ faq: [{"question": "How much does slab leak repair typically cost?", "answer": "
 published_at: "2026-07-27"
 services: ["slab-leak-repair", "leak-detection"]
 rendered: true
+author: "Bob Olson"
 ---
 A slab leak is a break or pinhole in the water lines running beneath your home's concrete foundation. Left alone, it can silently erode the soil under your slab, spike your water bill by hundreds of dollars a month, and invite mold into places you can't see. The tricky part is that the leak itself is buried, so your first clues are almost always indirect. Here are seven warning signs to watch for, what each one means, and the steps to take before a plumber arrives.
 

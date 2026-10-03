@@ -17,6 +17,7 @@ faq: [{"question": "Does a national plumbing franchise actually send its own emp
 published_at: "2026-08-28"
 services: ["emergency-plumbing", "drain-cleaning", "water-heater-repair"]
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** When you call a local plumber, you reach a dispatcher who knows the crew and the territory. When you call a national plumbing franchise, you often reach a call center that routes to a licensed subcontractor you've never heard of. The difference shows up in response time, pricing authority, and who's accountable if something goes wrong. A shop based 15 minutes from your house will almost always beat a call center routing algorithm when speed matters.
 

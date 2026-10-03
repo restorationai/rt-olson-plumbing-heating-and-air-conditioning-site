@@ -16,6 +16,7 @@ faq: [{"question": "Can hydro jetting damage my pipes?", "answer": "It can, if t
 published_at: "2026-08-03"
 services: ["drain-cleaning", "sewer-line-repair"]
 rendered: true
+author: "Bob Olson"
 ---
 The short answer: a drain snake is the right tool for a simple clog, hair, soap scum, a wad of grease near the drain opening. Hydro jetting is the right tool when buildup has narrowed the pipe over months or years, when roots have threaded into a sewer line, or when snaking has already been tried and the slow drain came back within weeks. Knowing which one you actually need saves you from paying for the more aggressive service when you don't need it, or from repeatedly snaking a line that will never stay clear without a thorough cleaning.
 

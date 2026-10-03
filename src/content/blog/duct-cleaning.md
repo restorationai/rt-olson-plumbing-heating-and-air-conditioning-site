@@ -17,6 +17,7 @@ faq: [{"question": "How much does duct cleaning cost in Chino Hills, CA?", "answ
 published_at: "2026-09-24"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Professional duct cleaning in Chino Hills typically costs $300-$600 for a standard single-family home, takes 2-4 hours, and is genuinely worth scheduling after a renovation, a rodent intrusion, visible mold growth near registers, or if the home has never had it done in over a decade. For most homes with regular filter changes and no contamination event, every 3-5 years is a reasonable interval. A legitimate company uses truck-mounted or high-powered portable vacuum equipment with negative pressure containment, not a shop vac and a brush kit.
 
