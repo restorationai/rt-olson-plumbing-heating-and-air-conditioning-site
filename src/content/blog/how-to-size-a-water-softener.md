@@ -7,8 +7,8 @@ primary_keyword: "how to size a water softener"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-size-a-water-softener/hero.webp"
+og: "/images/blog/2026/10/how-to-size-a-water-softener/hero.webp"
 generated_at: "2026-10-04T21:09:04Z"
 manual_override: false
 internal_links: ["/services/water-softeners-filtration/", "/services/reverse-osmosis/", "/blog/how-a-water-softener-works/", "/blog/how-much-does-a-water-softener-cost/", "/service-areas/corona-ca/", "/"]

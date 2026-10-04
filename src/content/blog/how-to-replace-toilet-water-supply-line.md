@@ -7,8 +7,8 @@ primary_keyword: "how to replace toilet water supply line"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-replace-toilet-water-supply-line/hero.webp"
+og: "/images/blog/2026/10/how-to-replace-toilet-water-supply-line/hero.webp"
 generated_at: "2026-10-04T20:58:07Z"
 manual_override: false
 internal_links: ["/services/toilet-faucet-repair/", "/", "/service-areas/corona-ca/"]

@@ -7,6 +7,8 @@ primary_keyword: "pipe burst what to do in the first 10 minutes"
 secondary_keywords: ["how to shut off your home's water", "burst and leaking pipe repair", "emergency plumbing"]
 search_intent: "informational_emergency"
 priority: 6.0
+hero: "/images/blog/2026/10/what-to-do-burst-pipe/hero.webp"
+og: "/images/blog/2026/10/what-to-do-burst-pipe/hero.webp"
 plan_hash: "abb414ca0bab0db1"
 generated_at: "2026-08-18T12:29:31.485002+00:00"
 manual_override: false

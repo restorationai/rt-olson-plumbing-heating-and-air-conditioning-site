@@ -7,6 +7,8 @@ primary_keyword: "how long do water heaters last when to repair vs replace"
 secondary_keywords: ["how long should a water heater last", "water heater repair", "water heater installation and replacement"]
 search_intent: "commercial_decision"
 priority: 5.4
+hero: "/images/blog/2026/10/water-heater-lifespan-repair-or-replace/hero.webp"
+og: "/images/blog/2026/10/water-heater-lifespan-repair-or-replace/hero.webp"
 plan_hash: "0e75dd0337f2bc82"
 generated_at: "2026-08-18T12:29:44.139845+00:00"
 manual_override: false

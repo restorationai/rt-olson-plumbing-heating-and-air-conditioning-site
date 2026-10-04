@@ -7,8 +7,8 @@ primary_keyword: "no hot water in shower"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/no-hot-water-in-shower/hero.webp"
+og: "/images/blog/2026/10/no-hot-water-in-shower/hero.webp"
 generated_at: "2026-10-04T20:48:16Z"
 manual_override: false
 internal_links: ["/services/water-heater-repair/", "/blog/water-heater-lifespan-repair-or-replace/", "/blog/tankless-vs-tank-water-heater/", "/", "/blog/how-to-drain-a-water-heater/", "/blog/what-size-tankless-water-heater/", "/services/toilet-faucet-repair/"]

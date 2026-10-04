@@ -7,8 +7,8 @@ primary_keyword: "why is my water heater making noise"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/water-heater-making-noises/hero.webp"
+og: "/images/blog/2026/10/water-heater-making-noises/hero.webp"
 generated_at: "2026-10-04T20:50:40Z"
 manual_override: false
 internal_links: ["/services/water-heater-repair/", "/", "/blog/how-to-drain-a-water-heater/", "/blog/water-heater-lifespan-repair-or-replace/", "/service-areas/corona-ca/"]

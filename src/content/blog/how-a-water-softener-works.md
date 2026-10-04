@@ -7,8 +7,8 @@ primary_keyword: "how does a water softener work"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-a-water-softener-works/hero.webp"
+og: "/images/blog/2026/10/how-a-water-softener-works/hero.webp"
 generated_at: "2026-10-04T20:57:33Z"
 manual_override: false
 internal_links: ["/services/water-softeners-filtration/", "/blog/water-heater-lifespan-repair-or-replace/", "/blog/how-to-remove-chlorine-from-water/", "/contact/", "/", "/services/reverse-osmosis/", "/blog/how-to-size-a-water-softener/", "/blog/how-much-does-a-water-softener-cost/"]

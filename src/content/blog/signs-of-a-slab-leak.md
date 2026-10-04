@@ -7,6 +7,8 @@ primary_keyword: "7 warning signs of a slab leak and what to do about them"
 secondary_keywords: ["what is a slab leak", "slab leak repair", "leak detection"]
 search_intent: "informational_symptom"
 priority: 4.8
+hero: "/images/blog/2026/10/signs-of-a-slab-leak/hero.webp"
+og: "/images/blog/2026/10/signs-of-a-slab-leak/hero.webp"
 plan_hash: "4488f12e14e9f701"
 generated_at: "2026-08-18T12:33:29.380553+00:00"
 manual_override: false

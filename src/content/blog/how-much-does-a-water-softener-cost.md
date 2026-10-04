@@ -7,8 +7,8 @@ primary_keyword: "how much does a water softener cost"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-much-does-a-water-softener-cost/hero.webp"
+og: "/images/blog/2026/10/how-much-does-a-water-softener-cost/hero.webp"
 generated_at: "2026-10-04T21:06:08Z"
 manual_override: false
 internal_links: ["/services/water-softeners-filtration/", "/blog/how-a-water-softener-works/", "/service-areas/corona-ca/", "/contact/", "/", "/blog/how-to-size-a-water-softener/"]

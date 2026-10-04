@@ -7,8 +7,8 @@ primary_keyword: "how to unclog a shower drain"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-unclog-a-shower-drain/hero.webp"
+og: "/images/blog/2026/10/how-to-unclog-a-shower-drain/hero.webp"
 generated_at: "2026-10-04T21:11:59Z"
 manual_override: false
 internal_links: ["/services/drain-cleaning/", "/blog/drain-cleaning-diy-vs-pro/", "/blog/how-to-get-rid-of-drain-flies/", "/service-areas/corona-ca/", "/contact/", "/", "/services/sewer-camera-inspection/"]

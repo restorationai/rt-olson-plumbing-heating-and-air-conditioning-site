@@ -7,8 +7,8 @@ primary_keyword: "how to replace a bathtub faucet"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-replace-a-bathtub-faucet/hero.webp"
+og: "/images/blog/2026/10/how-to-replace-a-bathtub-faucet/hero.webp"
 generated_at: "2026-10-04T20:56:47Z"
 manual_override: false
 internal_links: ["/services/toilet-faucet-repair/", "/blog/low-water-pressure-causes/", "/contact/", "/"]

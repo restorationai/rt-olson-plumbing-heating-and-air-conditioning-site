@@ -4,11 +4,11 @@ title: "How to Drain a Water Heater (Step-by-Step, Plus When to Just Flush It)"
 h1: "How to Drain a Water Heater (Step-by-Step, Plus When to Just Flush It)"
 meta_description: "How to drain and flush a water heater step by step, how long a 50-gallon tank takes to drain, why it drains slowly, and what to check while you are at it."
 primary_keyword: "how to drain a water heater"
-secondary_keywords: []
+secondary_keywords: ["water heater flush", "water heater flush service", "how to flush a water heater"]
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-drain-a-water-heater/hero.webp"
+og: "/images/blog/2026/10/how-to-drain-a-water-heater/hero.webp"
 generated_at: "2026-10-04T20:49:26Z"
 manual_override: false
 internal_links: ["/services/water-heater-repair/", "/services/water-heater-installation/", "/services/water-softeners-filtration/", "/blog/water-heater-lifespan-repair-or-replace/", "/blog/tankless-vs-tank-water-heater/", "/", "/blog/water-heater-making-noises/", "/blog/no-hot-water-in-shower/"]
@@ -42,6 +42,23 @@ Expect 45 minutes to an hour after that for the tank to come back up to full tem
 Flushing goes a step further than draining: it means running fresh water through the tank specifically to break up and clear mineral sediment, not just emptying it once. A plumber recommending a "flush" usually means the drain-and-refill cycle above, repeated until the water runs clear instead of cloudy or gritty.
 
 On older tanks, or tanks that haven't been serviced in years, the stock drain valve is often partially clogged with the very sediment you're trying to remove, and barely trickles. In that situation the valve sometimes has to be removed and replaced with a full-port ball valve to get the tank to drain properly, which is a job we'd point toward a licensed plumber rather than a weekend project, since removing a valve under pressure without the right prep can flood the area around the tank fast. If your drain valve won't flow at all, that's a sign to [schedule a water heater inspection](/services/water-heater-repair/) rather than force it.
+
+## What does a professional water heater flush include?
+
+If you'd rather not do it yourself, a professional flush on a traditional tank water heater covers more than draining:
+
+- Flushing the tank sediment out through the drain valve (the hose bib on the tank)
+- Checking and adjusting the pilot operation
+- Checking and adjusting the gas valve
+- Checking and adjusting the thermostat
+
+The payoff is the same as a DIY flush, done thoroughly: sediment comes out, the water heats faster and holds its temperature, the popping sounds stop, energy use drops, and the tank lasts longer. Sediment left in the tank blocks heat, makes the heater work harder, gives you inconsistent temperatures, and shortens its life, which is why a yearly flush is worth it.
+
+**Power flush.** When a tank has so much mineral buildup from age and hard water that the standard drain valve is completely clogged, the plumber removes that valve and installs a full-port valve, then flushes the tank through it. That is the valve-swap job described above, and it's the version to leave to a pro.
+
+**Tankless units** don't get a tank flush. They need a descaling service instead, which clears mineral scale from the heat exchanger.
+
+RT Olson Plumbing, Heating and Air Conditioning offers water heater flushes for tank units and descaling for tankless units, along with [water heater repair](/services/water-heater-repair/) and [installation](/services/water-heater-installation/) for tank and tankless heaters running on gas, propane, or electric.
 
 ## How long does it take to drain a 50-gallon water heater?
 A 50-gallon tank typically drains in 5 to 10 minutes once you let air in to break the vacuum, assuming the drain valve isn't clogged. With sediment in the valve or the vacuum still in place, it can take 20 to 30 minutes.

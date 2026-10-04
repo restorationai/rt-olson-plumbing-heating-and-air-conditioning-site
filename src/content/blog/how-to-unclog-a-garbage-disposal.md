@@ -7,8 +7,8 @@ primary_keyword: "how to unclog a garbage disposal"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-unclog-a-garbage-disposal/hero.webp"
+og: "/images/blog/2026/10/how-to-unclog-a-garbage-disposal/hero.webp"
 generated_at: "2026-10-04T20:55:44Z"
 manual_override: false
 internal_links: ["/services/garbage-disposal/", "/blog/drain-cleaning-diy-vs-pro/", "/", "/service-areas/corona-ca/"]

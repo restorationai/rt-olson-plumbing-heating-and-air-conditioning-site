@@ -7,8 +7,8 @@ primary_keyword: "what size tankless water heater do i need"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/what-size-tankless-water-heater/hero.webp"
+og: "/images/blog/2026/10/what-size-tankless-water-heater/hero.webp"
 generated_at: "2026-10-04T20:54:55Z"
 manual_override: false
 internal_links: ["/services/water-heater-installation/", "/services/water-softeners-filtration/", "/blog/tankless-vs-tank-water-heater/", "/service-areas/corona-ca/", "/", "/blog/water-heater-lifespan-repair-or-replace/", "/blog/no-hot-water-in-shower/"]

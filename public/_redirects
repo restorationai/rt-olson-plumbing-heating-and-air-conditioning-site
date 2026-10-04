@@ -68,8 +68,6 @@
 /services/trenchless-sewer-repair/ /services/drain-sewer-repairs/ 301
 /services/water-filtration-systems-new/ /services/water-softeners-filtration/ 301
 /services/water-filtration-systems/ /services/water-softeners-filtration/ 301
-/services/water-heater-flush-new/ /services/water-heater-repair/ 301
-/services/water-heater-flush/ /services/water-heater-repair/ 301
 /services/water-heater-repair-installation-new/ /services/water-heater-repair/ 301
 /services/water-heater-repair-installation-tankless-new/ /services/water-heater-installation/ 301
 /services/water-heater-repair-installation/ /services/water-heater-repair/ 301
@@ -82,9 +80,7 @@
 /toilet-repair/how-to-fix-a-running-toilet/ /services/toilet-faucet-repair/ 301
 /trenchless-sewer-repair-old/thank-you/ /services/drain-sewer-repairs/ 301
 /water-heater-flush-old/thank-you/ /services/water-heater-repair/ 301
-/water-heater-flush/ /services/water-heater-repair/ 301
 /water-heaters/instant-hot-water/ /services/water-heater-repair/ 301
-/water-leak-detection/automatic-leak-detector-shut-off/ /services/leak-detection/ 301
 /services/water-damage-restoration/thank-you/ /services/water-damage-restoration/ 301
 /services/water-damage/ /services/water-damage-restoration/ 301
 /water-damage-restoration/ /services/water-damage-restoration/ 301
@@ -410,6 +406,18 @@
 /garbage-disposals/how-to-install-a-new-garbage-disposal/ /blog/how-to-install-a-new-garbage-disposal/ 301
 /water-heaters/how-long-do-they-last /blog/water-heater-lifespan-repair-or-replace/ 301
 /water-heaters/how-long-do-they-last/ /blog/water-heater-lifespan-repair-or-replace/ 301
+/services/water-heater-flush /blog/how-to-drain-a-water-heater/ 301
+/services/water-heater-flush/ /blog/how-to-drain-a-water-heater/ 301
+/water-heater-flush /blog/how-to-drain-a-water-heater/ 301
+/water-heater-flush/ /blog/how-to-drain-a-water-heater/ 301
+/services/water-heater-flush-new /blog/how-to-drain-a-water-heater/ 301
+/services/water-heater-flush-new/ /blog/how-to-drain-a-water-heater/ 301
+/plumbing/20-ways-to-save-money-on-your-water-bill /blog/20-ways-to-save-money-on-your-water-bill/ 301
+/plumbing/20-ways-to-save-money-on-your-water-bill/ /blog/20-ways-to-save-money-on-your-water-bill/ 301
+/plumbing/what-is-pex-piping /blog/what-is-pex-piping/ 301
+/plumbing/what-is-pex-piping/ /blog/what-is-pex-piping/ 301
+/water-leak-detection/automatic-leak-detector-shut-off /blog/automatic-leak-detector-shut-off/ 301
+/water-leak-detection/automatic-leak-detector-shut-off/ /blog/automatic-leak-detector-shut-off/ 301
 
 # old sewer/trenchless and home-water-test service pages: 1:1 to the equivalent service page, not a generic one
 /services/trenchless-sewer-repair /services/drain-sewer-repairs/ 301

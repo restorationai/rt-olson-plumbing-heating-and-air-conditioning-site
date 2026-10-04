@@ -7,8 +7,8 @@ primary_keyword: "how to find a water leak"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-find-a-water-leak/hero.webp"
+og: "/images/blog/2026/10/how-to-find-a-water-leak/hero.webp"
 generated_at: "2026-10-04T20:58:56Z"
 manual_override: false
 internal_links: ["/services/leak-detection/", "/blog/signs-of-a-slab-leak/", "/blog/what-to-do-burst-pipe/", "/", "/contact/"]

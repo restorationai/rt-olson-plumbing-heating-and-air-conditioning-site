@@ -7,8 +7,8 @@ primary_keyword: "how to remove chlorine from tap water"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-remove-chlorine-from-water/hero.webp"
+og: "/images/blog/2026/10/how-to-remove-chlorine-from-water/hero.webp"
 generated_at: "2026-10-04T20:53:42Z"
 manual_override: false
 internal_links: ["/services/water-softeners-filtration/", "/services/reverse-osmosis/", "/contact/", "/service-areas/corona-ca/", "/", "/blog/how-a-water-softener-works/"]

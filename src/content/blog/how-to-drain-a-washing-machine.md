@@ -7,8 +7,8 @@ primary_keyword: "how to drain a washing machine"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-drain-a-washing-machine/hero.webp"
+og: "/images/blog/2026/10/how-to-drain-a-washing-machine/hero.webp"
 generated_at: "2026-10-04T21:00:03Z"
 manual_override: false
 internal_links: ["/services/drain-cleaning/", "/", "/blog/drain-cleaning-diy-vs-pro/", "/contact/", "/services/sewer-camera-inspection/"]
