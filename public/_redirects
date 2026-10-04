@@ -18,20 +18,20 @@
 /drain-cleaning/ /services/drain-cleaning/ 301
 /drain-cleaning/does-bleach-kill-drain-flies-corona-ca/ /blog/how-to-get-rid-of-drain-flies/ 301
 /drain-cleaning/how-to-get-rid-of-drain-flies/ /blog/how-to-get-rid-of-drain-flies/ 301
-/drain-cleaning/how-to-unclog-a-bathroom-sink/ /services/drain-cleaning/ 301
-/drain-cleaning/how-to-unclog-a-shower-drain/ /services/drain-cleaning/ 301
+/drain-cleaning/how-to-unclog-a-bathroom-sink/ /blog/how-to-unclog-a-shower-drain/ 301
+/drain-cleaning/how-to-unclog-a-shower-drain/ /blog/how-to-unclog-a-shower-drain/ 301
 /drain-cleaning/importance-of-clean-drains/ /services/drain-cleaning/ 301
-/faucet-repair/how-to-replace-a-bathtub-faucet/ /services/toilet-faucet-repair/ 301
+/faucet-repair/how-to-replace-a-bathtub-faucet/ /blog/how-to-replace-a-bathtub-faucet/ 301
 /furnace-tune-up/ /services/furnace-repair/ 301
-/garbage-disposals/how-to-install-a-new-garbage-disposal/ /services/garbage-disposal/ 301
+/garbage-disposals/how-to-install-a-new-garbage-disposal/ /blog/how-to-install-a-new-garbage-disposal/ 301
 /garbage-disposals/how-to-repair-a-garbage-disposal/ /services/garbage-disposal/ 301
-/garbage-disposals/how-to-unclog-a-garbage-disposal/ /services/garbage-disposal/ 301
-/hvac/water-softener-cost-corona-ca/ /services/water-softeners-filtration/ 301
+/garbage-disposals/how-to-unclog-a-garbage-disposal/ /blog/how-to-unclog-a-garbage-disposal/ 301
+/hvac/water-softener-cost-corona-ca/ /blog/how-much-does-a-water-softener-cost/ 301
 /lp-drain-cleaning/ /services/drain-cleaning/ 301
 /lp-drain-cleaning/thank-you/ /services/drain-cleaning/ 301
 /lp-hot-water-heaters/ /services/water-heater-repair/ 301
 /lp-hot-water-heaters/thank-you/ /services/water-heater-repair/ 301
-/plumbing/how-to-drain-a-washing-machine/ /services/drain-cleaning/ 301
+/plumbing/how-to-drain-a-washing-machine/ /blog/how-to-drain-a-washing-machine/ 301
 /service-areas/anaheim/drain-cleaning/ /services/drain-cleaning/ 301
 /service-areas/corona/drain-cleaning/ /services/drain-cleaning/ 301
 /service-areas/eastvale/drain-cleaning/ /services/drain-cleaning/ 301
@@ -87,25 +87,25 @@
 /sewer-line-repair-old/thank-you/ /services/drain-cleaning/ 301
 /toilet-repair/how-to-convert-your-toilet-to-dual-flush/ /services/toilet-faucet-repair/ 301
 /toilet-repair/how-to-fix-a-running-toilet/ /services/toilet-faucet-repair/ 301
-/toilet-repair/how-to-replace-toilet-water-supply-line/ /services/toilet-faucet-repair/ 301
+/toilet-repair/how-to-replace-toilet-water-supply-line/ /blog/how-to-replace-toilet-water-supply-line/ 301
 /trenchless-sewer-repair-old/thank-you/ /services/drain-cleaning/ 301
-/water-filtration/how-to-remove-chlorine/ /services/water-softeners-filtration/ 301
+/water-filtration/how-to-remove-chlorine/ /blog/how-to-remove-chlorine/ 301
 /water-heater-flush-old/thank-you/ /services/water-heater-repair/ 301
 /water-heater-flush/ /services/water-heater-repair/ 301
-/water-heaters/blog-no-hot-water-in-shower/ /services/water-heater-repair/ 301
-/water-heaters/how-long-do-they-last/ /services/water-heater-repair/ 301
-/water-heaters/how-to-drain-a-water-heater/ /services/drain-cleaning/ 301
+/water-heaters/blog-no-hot-water-in-shower/ /blog/blog-no-hot-water-in-shower/ 301
+/water-heaters/how-long-do-they-last/ /blog/water-heater-lifespan-repair-or-replace/ 301
+/water-heaters/how-to-drain-a-water-heater/ /blog/how-to-drain-a-water-heater/ 301
 /water-heaters/instant-hot-water/ /services/water-heater-repair/ 301
-/water-heaters/making-noises/ /services/water-heater-repair/ 301
-/water-heaters/mastering-water-heater-maintenance/ /services/water-heater-repair/ 301
-/water-heaters/what-size-tankless-water-heater/ /services/water-heater-installation/ 301
+/water-heaters/making-noises/ /blog/making-noises/ 301
+/water-heaters/mastering-water-heater-maintenance/ /blog/how-to-drain-a-water-heater/ 301
+/water-heaters/what-size-tankless-water-heater/ /blog/what-size-tankless-water-heater/ 301
 /water-leak-detection/automatic-leak-detector-shut-off/ /services/leak-detection/ 301
-/water-leak-detection/how-to-find-a-water-leak/ /services/leak-detection/ 301
-/water-leak-detection/how-to-shut-off-your-homes-water/ /services/leak-detection/ 301
-/water-leak-detection/what-is-a-slab-leak/ /services/leak-detection/ 301
-/water-softeners/how-a-water-softener-works/ /services/water-softeners-filtration/ 301
-/water-softeners/how-much-do-softeners-cost/ /services/water-softeners-filtration/ 301
-/water-softeners/how-to-size-a-water-softener/ /services/water-softeners-filtration/ 301
+/water-leak-detection/how-to-find-a-water-leak/ /blog/how-to-find-a-water-leak/ 301
+/water-leak-detection/how-to-shut-off-your-homes-water/ /blog/what-to-do-burst-pipe/ 301
+/water-leak-detection/what-is-a-slab-leak/ /blog/signs-of-a-slab-leak/ 301
+/water-softeners/how-a-water-softener-works/ /blog/how-a-water-softener-works/ 301
+/water-softeners/how-much-do-softeners-cost/ /blog/how-much-do-softeners-cost/ 301
+/water-softeners/how-to-size-a-water-softener/ /blog/how-to-size-a-water-softener/ 301
 /services/water-damage-restoration/thank-you/ /services/water-damage-restoration/ 301
 /services/water-damage/ /services/water-damage-restoration/ 301
 /water-damage-restoration/ /services/water-damage-restoration/ 301
@@ -384,3 +384,70 @@
 # 2026-10-04: "Should I Tip a Plumber?" removed (0 GSC impressions, not indexed, low local buyer value; Santino approved)
 /blog/should-i-tip-a-plumber /blog/ 301
 /blog/should-i-tip-a-plumber/ /blog/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-heaters/blog-no-hot-water-in-shower /blog/blog-no-hot-water-in-shower/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-heaters/how-to-drain-a-water-heater /blog/how-to-drain-a-water-heater/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-heaters/making-noises /blog/making-noises/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-filtration/how-to-remove-chlorine /blog/how-to-remove-chlorine/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/faucet-repair/how-to-replace-a-bathtub-faucet /blog/how-to-replace-a-bathtub-faucet/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-softeners/how-a-water-softener-works /blog/how-a-water-softener-works/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/toilet-repair/how-to-replace-toilet-water-supply-line /blog/how-to-replace-toilet-water-supply-line/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-leak-detection/how-to-find-a-water-leak /blog/how-to-find-a-water-leak/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/plumbing/how-to-drain-a-washing-machine /blog/how-to-drain-a-washing-machine/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/drain-cleaning/how-to-unclog-a-shower-drain /blog/how-to-unclog-a-shower-drain/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-leak-detection/how-to-shut-off-your-homes-water /blog/what-to-do-burst-pipe/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/garbage-disposals/how-to-install-a-new-garbage-disposal /blog/how-to-install-a-new-garbage-disposal/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-heaters/what-size-tankless-water-heater /blog/what-size-tankless-water-heater/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/garbage-disposals/how-to-unclog-a-garbage-disposal /blog/how-to-unclog-a-garbage-disposal/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-softeners/how-much-do-softeners-cost /blog/how-much-do-softeners-cost/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-softeners/how-to-size-a-water-softener /blog/how-to-size-a-water-softener/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/plumbing/when-your-shower-has-no-hot-water /blog/no-hot-water-in-shower/ 301
+/plumbing/when-your-shower-has-no-hot-water/ /blog/no-hot-water-in-shower/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-heaters/mastering-water-heater-maintenance /blog/how-to-drain-a-water-heater/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/hvac/water-softener-cost-corona-ca /blog/how-much-does-a-water-softener-cost/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/drain-cleaning/how-to-unclog-a-bathroom-sink /blog/how-to-unclog-a-shower-drain/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-leak-detection/what-is-a-slab-leak /blog/signs-of-a-slab-leak/ 301
+
+# site-move rule 2026-10-04: traffic page migrated to its own post (scripts/cutover_harvest.py migrate)
+/water-heaters/how-long-do-they-last /blog/water-heater-lifespan-repair-or-replace/ 301
