@@ -7,8 +7,8 @@ primary_keyword: "how to get rid of drain flies"
 secondary_keywords: []
 search_intent: "informational"
 priority: 7
-hero: ""
-og: ""
+hero: "/images/blog/2026/10/how-to-get-rid-of-drain-flies/hero.webp"
+og: "/images/blog/2026/10/how-to-get-rid-of-drain-flies/hero.webp"
 generated_at: "2026-10-04T19:59:36Z"
 manual_override: false
 internal_links: ["/services/drain-cleaning/", "/blog/drain-cleaning-diy-vs-pro/", "/blog/hydro-jetting-vs-snaking/", "/", "/contact/"]
