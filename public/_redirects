@@ -380,3 +380,7 @@
 # site-move rule 2026-10-04: traffic pages migrated to their own post (scripts/cutover_harvest.py migrate)
 /drain-cleaning/how-to-get-rid-of-drain-flies /blog/how-to-get-rid-of-drain-flies/ 301
 /drain-cleaning/does-bleach-kill-drain-flies-corona-ca /blog/how-to-get-rid-of-drain-flies/ 301
+
+# 2026-10-04: "Should I Tip a Plumber?" removed (0 GSC impressions, not indexed, low local buyer value; Santino approved)
+/blog/should-i-tip-a-plumber /blog/ 301
+/blog/should-i-tip-a-plumber/ /blog/ 301
