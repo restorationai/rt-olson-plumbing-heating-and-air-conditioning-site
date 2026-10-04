@@ -16,8 +16,8 @@
 /corona-ca/air-purifier-installation-corona-ca-indoor-air-quality/ /services/indoor-air-quality/ 301
 /corona-ca/replace-garbage-disposal-corona/ /services/garbage-disposal/ 301
 /drain-cleaning/ /services/drain-cleaning/ 301
-/drain-cleaning/does-bleach-kill-drain-flies-corona-ca/ /services/drain-cleaning/ 301
-/drain-cleaning/how-to-get-rid-of-drain-flies/ /services/drain-cleaning/ 301
+/drain-cleaning/does-bleach-kill-drain-flies-corona-ca/ /blog/how-to-get-rid-of-drain-flies/ 301
+/drain-cleaning/how-to-get-rid-of-drain-flies/ /blog/how-to-get-rid-of-drain-flies/ 301
 /drain-cleaning/how-to-unclog-a-bathroom-sink/ /services/drain-cleaning/ 301
 /drain-cleaning/how-to-unclog-a-shower-drain/ /services/drain-cleaning/ 301
 /drain-cleaning/importance-of-clean-drains/ /services/drain-cleaning/ 301
@@ -376,3 +376,7 @@
 /services/re-pipe/* /services/repiping/ 301
 /service-areas/:city/repair-water-damage/ /services/water-damage-restoration/ 301
 /service-areas/:city/repair-water-damage /services/water-damage-restoration/ 301
+
+# site-move rule 2026-10-04: traffic pages migrated to their own post (scripts/cutover_harvest.py migrate)
+/drain-cleaning/how-to-get-rid-of-drain-flies /blog/how-to-get-rid-of-drain-flies/ 301
+/drain-cleaning/does-bleach-kill-drain-flies-corona-ca /blog/how-to-get-rid-of-drain-flies/ 301
