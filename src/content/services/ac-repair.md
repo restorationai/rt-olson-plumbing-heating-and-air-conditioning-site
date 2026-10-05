@@ -43,7 +43,7 @@ The most common mistake in residential AC repair is treating low refrigerant as 
 
 A second common failure point is misdiagnosing an electrical problem as a refrigerant problem. When a dual-run capacitor is weak, the compressor struggles to start and may short-cycle or trip the breaker, symptoms that look like a refrigerant issue to an untrained eye. Electrical testing with a true RMS multimeter and a clamp meter catches this before an unnecessary refrigerant service call.
 
-For systems still running R-22 (common in Corona homes built before 2010), parts availability and refrigerant cost are real factors. A technician should be honest about the repair-versus-replace calculus on an aging R-22 system rather than performing a costly repair on equipment that's nearing the end of its serviceable life.
+For systems still running R-22 (common in Corona homes built before 2010), parts availability and refrigerant cost are real factors. A technician should be honest about the [repair-versus-replace](/services/hvac-installation/) calculus on an aging R-22 system rather than performing a costly repair on equipment that's nearing the end of its serviceable life.
 
 ## Seasonal and regional considerations
 

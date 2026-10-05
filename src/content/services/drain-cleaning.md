@@ -21,11 +21,11 @@ That slow-draining kitchen sink you've been ignoring for two weeks? By the time 
 
 ## What drain cleaning actually involves
 
-A clogged drain can live anywhere from the P-trap two inches below your sink basket to the main sewer line sixty feet from your foundation. The equipment changes depending on where the blockage is and what it's made of.
+A clogged drain can live anywhere from the P-trap two inches below your sink basket to the [main sewer line](/services/drain-sewer-repairs/) sixty feet from your foundation. The equipment changes depending on where the blockage is and what it's made of.
 
 For most kitchen sink clogs, a cable machine (also called a drain snake or rooter) reaches into the line, breaks through the grease cap, and pulls debris back out. For shower drain clogs and bathroom sink clogs, the same approach works, the cable diameter and head type are matched to the pipe size. When a cable clears the line but the drain slows again within days, that's usually a sign of heavy grease coating, mineral scale, or root intrusion that a cable alone can't address.
 
-Hydro jetting uses pressurized water, typically 3,000 to 4,000 PSI, to scour pipe walls clean rather than just punching a hole through the clog. It's the right tool for grease-packed kitchen drain lines, recurring clogs in older cast-iron pipe, and root-infiltrated sewer laterals where you want to flush debris downstream rather than extract it. A camera inspection before hydro jetting confirms the pipe can handle the pressure and shows exactly what you're dealing with.
+Hydro jetting uses pressurized water, typically 3,000 to 4,000 PSI, to scour pipe walls clean rather than just punching a hole through the clog. It's the right tool for grease-packed kitchen drain lines, recurring clogs in older cast-iron pipe, and root-infiltrated sewer laterals where you want to flush debris downstream rather than extract it. A [camera inspection](/services/sewer-camera-inspection/) before hydro jetting confirms the pipe can handle the pressure and shows exactly what you're dealing with.
 
 Most residential drain cleaning calls wrap up in one to three hours. Main line work or camera inspection adds time but also removes the guesswork.
 
