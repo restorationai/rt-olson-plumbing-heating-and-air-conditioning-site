@@ -58,14 +58,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "612",
+  gbpReviewCount: "615",
   gbpReviews: [
+    { author: "Boota", rating: 5, text: "RT OLSON have always been on time and have always done clean work. They did a great job installing my water filtration system", when: "October 2026" },
+    { author: "Bob", rating: 5, text: "These guys were on time and they did quality work.", when: "October 2026" },
+    { author: "Caroll", rating: 5, text: "I have used their service several times. The technicians have all been very professional and courteous. They find the problem and get it fixed right.", when: "October 2026" },
     { author: "Courtney", rating: 5, text: "My unit was overheating . Mike arrived and could not have been any more wonderful. Mike went above and beyond, He called his supervisor who was a wonderful ,kind man and we worked out an amazing deal way lower than any other Co. would have quoted me . I also was given a membership and they send…", when: "October 2026" },
     { author: "Rajat", rating: 4, text: "They did a very good job in fixing our garage water pipelines and in a timely manner.", when: "October 2026" },
     { author: "Kathleen", rating: 5, text: "RT Olsen did an amazing job on my property. This company responded quickly to my need and delivered the best pricing. Thank you for taking good care of my home", when: "September 2026" },
-    { author: "Shawn", rating: 5, text: "Great service and so personable. I felt very comfortable and they were so knowledgeable. I would definitely recommend!", when: "September 2026" },
-    { author: "Tim", rating: 4, text: "Replaced our pressure regulator valve for main line coming into the house. Scheduled promptly, went right to work, plumbing was clean and neat. Finished in reasonable time. Plumber was polite and courteous. Despite them being from out of town, I would call them again.", when: "September 2026" },
-    { author: "Minh", rating: 5, text: "This is a very reliable business if you have any plumbing problems. Good service, fair price and very prompt. I would recommend this business to everyone.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "Plumbing, heating & air services in Corona, CA.",
   ctaLabel: "24/7 Emergency Line",
