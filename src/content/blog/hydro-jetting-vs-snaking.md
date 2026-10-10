@@ -47,7 +47,7 @@ Hydro jetting earns its higher cost in situations where buildup is the problem, 
 
 **Grease-heavy kitchen lines.** In Southern California's climate, cooking grease that goes down a drain doesn't solidify the way it does in colder regions, but it does accumulate in layers along pipe walls over time, especially in longer horizontal runs. A snake passes through it. A hydro jet removes it.
 
-**Root intrusion.** Tree and shrub roots find their way into sewer lines through joints and small cracks, especially in older clay or Orangeburg pipe. A snake can cut through fine root tendrils, but it won't clear a pipe that's become heavily infiltrated. Hydro jetting with a root-cutting nozzle can clear the line thoroughly enough to restore flow, though if roots have entered, a camera inspection afterward is important to assess whether the pipe itself needs repair. That's where [sewer line repair](/sewer-line-repair) becomes part of the conversation.
+**Root intrusion.** Tree and shrub roots find their way into sewer lines through joints and small cracks, especially in older clay or Orangeburg pipe. A snake can cut through fine root tendrils, but it won't clear a pipe that's become heavily infiltrated. Hydro jetting with a root-cutting nozzle can clear the line thoroughly enough to restore flow, though if roots have entered, a camera inspection afterward is important to assess whether the pipe itself needs repair. That's where sewer line repair becomes part of the conversation.
 
 **Pre-sale or pre-rental cleaning.** Hydro jetting a main sewer line before listing a home or turning over a rental property gives you a clean baseline and can surface problems (like root intrusion or pipe offsets) before they become a buyer's or tenant's emergency.
 
@@ -55,7 +55,7 @@ Hydro jetting earns its higher cost in situations where buildup is the problem, 
 
 Neither snaking nor hydro jetting tells you what's actually going on inside the pipe. A drain camera does. A plumber inserts a flexible camera line into the drain and watches live video of the pipe interior, seeing grease buildup, root intrusion, cracked pipe sections, bellied sections where the pipe has settled and holds standing water, or offset joints where the ground has shifted.
 
-In Corona and the surrounding Inland Empire, the expansive clay soils common throughout Riverside County can cause pipe movement over time, particularly in homes built in the 1960s through 1980s when clay sewer pipe was standard. A camera inspection before hydro jetting isn't just a precaution, it's how a plumber confirms the pipe can handle the pressure and identifies whether a recurring drain problem is actually a [drain cleaning](/drain-cleaning) issue or a structural one that requires repair.
+In Corona and the surrounding Inland Empire, the expansive clay soils common throughout Riverside County can cause pipe movement over time, particularly in homes built in the 1960s through 1980s when clay sewer pipe was standard. A camera inspection before hydro jetting isn't just a precaution, it's how a plumber confirms the pipe can handle the pressure and identifies whether a recurring drain problem is actually a [drain cleaning](/services/drain-cleaning/) issue or a structural one that requires repair.
 
 If a camera shows a collapsed section, a severe belly, or significant root damage, hydro jetting will clean what's there but won't fix the underlying problem. You'd be back to the same slow drain within months.
 
