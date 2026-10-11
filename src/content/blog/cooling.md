@@ -43,7 +43,7 @@ Here's roughly how the common failures break down:
 - **Compressor replacement:** $1,200-$2,800 installed, sometimes covered partially under a manufacturer parts warranty if the unit is inside its warranty window (typically 5-10 years, but labor is rarely included).
 - **Blower motor or fan motor:** $350-$700.
 
-Any written quote should specify the exact part, the refrigerant type (most Chino-area systems installed before 2010 still run R-22, which is no longer produced under [EPA phase-out rules](https://www.epa.gov/section608/phaseout-class-i-ozone-depleting-substances), making leak repairs on those systems significantly pricier than on R-410A units), and whether the diagnostic fee rolls into the repair cost if you move forward.
+Any written quote should specify the exact part, the refrigerant type (most Chino-area systems installed before 2010 still run R-22, which is no longer produced under [EPA phase-out rules](https://www.epa.gov/section608), making leak repairs on those systems significantly pricier than on R-410A units), and whether the diagnostic fee rolls into the repair cost if you move forward.
 
 ## What Are the Warning Signs You Need Cooling Repair Now?
 
