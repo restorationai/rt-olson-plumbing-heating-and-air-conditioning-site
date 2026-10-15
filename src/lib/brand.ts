@@ -58,14 +58,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "616",
+  gbpReviewCount: "618",
   gbpReviews: [
+    { author: "Rodney", rating: 5, text: "Great service, on time with great communication.", when: "October 2026" },
+    { author: "Kofi", rating: 5, text: "RT Olson plumbing moved two ACs for us from our backyard to the side of our house. They came to the house, gave us a quotes and started the job the next day. Needless to say their timing is A+. Scott was very professional as always and made sure I understood the process and gave me a great price…", when: "October 2026" },
     { author: "Shuntai", rating: 5, text: "Very girl on time we even got to get our appointment earlier very nice. Good customer service.", when: "October 2026" },
     { author: "Boota", rating: 5, text: "RT OLSON have always been on time and have always done clean work. They did a great job installing my water filtration system", when: "October 2026" },
     { author: "Bob", rating: 5, text: "These guys were on time and they did quality work.", when: "October 2026" },
     { author: "Caroll", rating: 5, text: "I have used their service several times. The technicians have all been very professional and courteous. They find the problem and get it fixed right.", when: "October 2026" },
-    { author: "Courtney", rating: 5, text: "My unit was overheating . Mike arrived and could not have been any more wonderful. Mike went above and beyond, He called his supervisor who was a wonderful ,kind man and we worked out an amazing deal way lower than any other Co. would have quoted me . I also was given a membership and they send…", when: "October 2026" },
-    { author: "Rajat", rating: 4, text: "They did a very good job in fixing our garage water pipelines and in a timely manner.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "Plumbing, heating & air services in Corona, CA.",
   ctaLabel: "24/7 Emergency Line",
