@@ -58,14 +58,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "619",
+  gbpReviewCount: "621",
   gbpReviews: [
+    { author: "Zhenghe", rating: 5, text: "Very professional very friendly", when: "October 2026" },
     { author: "Elaine", rating: 5, text: "Great service. On time and good price. Gave understandable advice so we could make the best choice for us. No pressure.", when: "October 2026" },
     { author: "Rodney", rating: 5, text: "Great service, on time with great communication.", when: "October 2026" },
     { author: "Kofi", rating: 5, text: "RT Olson plumbing moved two ACs for us from our backyard to the side of our house. They came to the house, gave us a quotes and started the job the next day. Needless to say their timing is A+. Scott was very professional as always and made sure I understood the process and gave me a great price…", when: "October 2026" },
     { author: "Shuntai", rating: 5, text: "Very girl on time we even got to get our appointment earlier very nice. Good customer service.", when: "October 2026" },
     { author: "Boota", rating: 5, text: "RT OLSON have always been on time and have always done clean work. They did a great job installing my water filtration system", when: "October 2026" },
-    { author: "Bob", rating: 5, text: "These guys were on time and they did quality work.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "Plumbing, heating & air services in Corona, CA.",
   ctaLabel: "24/7 Emergency Line",
