@@ -76,6 +76,8 @@ function localBusiness(ctx: PageSchemaContext) {
       closes: "23:59",
     },
     sameAs: brand.sameAsUrls,
+    award: ((brand as { awards?: { name: string; year?: string | number; category?: string }[] }).awards || [])
+      .map((a) => [a.name, a.year && !String(a.name).includes(String(a.year)) ? a.year : "", a.category ? `(${a.category})` : ""].filter(Boolean).join(" ")),
     foundingDate: brand.foundedYear,
     // AggregateRating — values come straight from the live Google Business Profile,
     // synced into brand.ts by scripts/sync_brand_reviews.py (never hand-edited; we
@@ -117,6 +119,8 @@ function organization() {
     email: brand.email,
     foundingDate: brand.foundedYear,
     sameAs: brand.sameAsUrls,
+    award: ((brand as { awards?: { name: string; year?: string | number; category?: string }[] }).awards || [])
+      .map((a) => [a.name, a.year && !String(a.name).includes(String(a.year)) ? a.year : "", a.category ? `(${a.category})` : ""].filter(Boolean).join(" ")),
   };
 }
 
