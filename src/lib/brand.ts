@@ -59,14 +59,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "623",
+  gbpReviewCount: "624",
   gbpReviews: [
+    { author: "Ye", rating: 5, text: "Talked with the team at RT Olson Plumbing, Heating and Air Conditioning about how to protect a home from water damage. Friendly, knowledgeable and no pressure. Good to know who to call for plumbing.", when: "October 2026" },
     { author: "Anssi", rating: 5, text: "I have been working with Bob for years now and they always come in clutch whether it is a leaky pipe, water heater or garbage disposal. His team is very professional and take pride in their work", when: "October 2026" },
     { author: "Steven", rating: 5, text: "Osborn plumbing has a great team. Amazing response and there work is the best. I have recommended your services to several people on our block and they have had the same amazing experience. You guys are amazing - thank you so much.", when: "October 2026" },
     { author: "Zhenghe", rating: 5, text: "Very professional very friendly", when: "October 2026" },
     { author: "Elaine", rating: 5, text: "Great service. On time and good price. Gave understandable advice so we could make the best choice for us. No pressure.", when: "October 2026" },
     { author: "Rodney", rating: 5, text: "Great service, on time with great communication.", when: "October 2026" },
-    { author: "Kofi", rating: 5, text: "RT Olson plumbing moved two ACs for us from our backyard to the side of our house. They came to the house, gave us a quotes and started the job the next day. Needless to say their timing is A+. Scott was very professional as always and made sure I understood the process and gave me a great price…", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "Plumbing, heating & air services in Corona, CA.",
   ctaLabel: "24/7 Emergency Line",
