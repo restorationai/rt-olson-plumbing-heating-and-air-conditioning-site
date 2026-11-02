@@ -44,7 +44,7 @@ These two parts are some of the most common AC failures in the Inland Empire bec
 
 A refrigerant recharge usually costs $200 to $600 for a system that runs on R-410A, and it can run higher for older systems still using the phased-out R-22 refrigerant, assuming the refrigerant is even available. The total depends on how many pounds the system needs and the per-pound cost of the refrigerant itself, which has climbed as the EPA phases down high-global-warming-potential refrigerants under its [Section 608 program](https://www.epa.gov/section608).
 
-Here's the part a lot of homeowners miss: a recharge treats a symptom, not the problem. Air conditioners don't consume refrigerant during normal operation. A system that's low on charge has a leak somewhere, in a coil, a line set joint, or a schrader valve, and recharging it without finding and sealing that leak means paying for the same gas again in a year or two. Only an EPA Section 608 certified technician can legally purchase, handle, and recover refrigerant, which is one reason refrigerant work costs more than a straightforward electrical part swap.
+Here's the part a lot of homeowners miss: a recharge treats a symptom, not the problem. Air conditioners don't consume refrigerant during normal operation. A system that's low on charge has a leak somewhere, in a coil, a line set joint, or a schrader valve, and recharging it without finding and sealing that leak means paying for the same gas again in a year or two. Federal EPA Section 608 rules limit who can legally purchase, handle, and recover refrigerant, which is one reason refrigerant work costs more than a straightforward electrical part swap.
 
 ## When does AC repair cost more sense than replacement?
 

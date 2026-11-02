@@ -25,7 +25,7 @@ rendered: true
 
 **Water heater service and replacement**, That low rumbling from your water heater closet is sediment baking onto the tank floor, a sign the unit is working harder than it should. Whether your system needs a flush, a new anode rod, or a full replacement with a tankless unit, the right call now saves a cold-shower surprise later.
 
-**Heating and air conditioning**, Inland Southern California swings from triple-digit summers to cold desert nights, and your HVAC system takes the full range. RT Olson handles repairs, maintenance, and system replacements for both heating and cooling so you're covered no matter what the season throws at you.
+**Heating and air conditioning**, Inland Southern California swings from triple-digit summers to cold desert nights, and your HVAC system takes the full range. RT Olson handles [AC repair and installation](/services/ac-repair/), [furnace repair and installation](/services/furnace-repair/), and maintenance for both heating and cooling so you're covered no matter what the season throws at you.
 
 ## Why homeowners and property managers call us
 

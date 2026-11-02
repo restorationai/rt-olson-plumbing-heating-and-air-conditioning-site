@@ -58,7 +58,7 @@ If you turn the water back on and see even a slow drip at the sink flange or the
 
 Once everything is connected, plug in the new disposal, run cold water, and flip the switch to test it. Check every connection point you touched for drips while it's running. A disposal installed cleanly, with a proper putty seal and snug (not overtightened) fittings, should run leak-free for years.
 
-If the install turns up wiring you're not comfortable with, or the fit just isn't right, [call RT Olson Plumbing, Heating and Air Conditioning at (951) 344-5596](tel:+19513445596) to have it finished correctly.
+If the install turns up wiring you're not comfortable with, or the fit just isn't right, [call RT Olson Plumbing, Heating and Air Conditioning at (951) 344-5596](tel:+19513445596) to have it finished correctly, or see our [garbage disposal installation](/services/garbage-disposal/) service.
 
 ---
 
