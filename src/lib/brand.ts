@@ -55,7 +55,8 @@ export const brand = {
   trustBadges: ["Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/rtolsonplumbing/", "https://www.rtolsonplumbing.com/services/drain-cleaning/", "https://maps.google.com/maps?cid=10311423681587319186", "https://www.yelp.com/biz/rt-olson-plumbing-heating-and-air-conditioning-corona-4", "https://www.bbb.org/us/ca/anaheim/profile/plumber/rt-olson-plumbing-heating-and-air-conditioning-1126-850038253/addressId/777657", "https://www.angi.com/companylist/us/ca/corona/rt-olson-plumbing%2C-heating-and-air-conditioning-reviews-8562287.htm"] as string[],
-  awards: [{"name": "Nextdoor Neighborhood Favorite", "year": "2024", "organizer": "Nextdoor", "url": "https://nextdoor.com/pages/rt-olson-p-alton-il/"}] as { name: string; year?: string | number; category?: string; organizer?: string; url?: string; image?: string }[],
+  awards: [{"name": "Nextdoor Neighborhood Favorite", "year": "2024", "organizer": "Nextdoor", "url": "https://nextdoor.com/pages/rt-olson-p-alton-il/", "kind": "poll", "text": "Voted Nextdoor Neighborhood Favorite 2024", "badge": "Neighborhood Fave 2024", "sealTitle": "Voted Nextdoor Neighborhood Favorite 2024", "sealSub": "Nextdoor", "cardTitle": "Voted Nextdoor Neighborhood Favorite"}] as { name: string; year?: string | number; category?: string; organizer?: string; url?: string; image?: string; short?: string; kind?: string; text?: string; badge?: string; sealTitle?: string; sealSub?: string; cardTitle?: string }[],
+  awardsSection: {"headline": "Voted a Neighborhood Favorite in Corona", "intro": "Independent recognition from Nextdoor."} as { headline: string; intro: string },
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
