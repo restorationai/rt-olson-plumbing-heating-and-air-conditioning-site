@@ -1,0 +1,242 @@
+{
+ "/service-areas/anaheim-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/anaheim-ca/sewer-camera-inspection/",
+  "now": "/service-areas/anaheim-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bloomington-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/bloomington-ca/sewer-camera-inspection/",
+  "now": "/service-areas/bloomington-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/canyon-lake-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/canyon-lake-ca/sewer-camera-inspection/",
+  "now": "/service-areas/canyon-lake-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chino-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/chino-ca/sewer-camera-inspection/",
+  "now": "/service-areas/chino-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chino-hills-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/chino-hills-ca/sewer-camera-inspection/",
+  "now": "/service-areas/chino-hills-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/claremont-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/claremont-ca/sewer-camera-inspection/",
+  "now": "/service-areas/claremont-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/diamond-bar-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/diamond-bar-ca/sewer-camera-inspection/",
+  "now": "/service-areas/diamond-bar-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/eastvale-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/eastvale-ca/sewer-camera-inspection/",
+  "now": "/service-areas/eastvale-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fontana-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/fontana-ca/sewer-camera-inspection/",
+  "now": "/service-areas/fontana-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/french-valley-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/french-valley-ca/sewer-camera-inspection/",
+  "now": "/service-areas/french-valley-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fullerton-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/fullerton-ca/sewer-camera-inspection/",
+  "now": "/service-areas/fullerton-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hemet-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/hemet-ca/sewer-camera-inspection/",
+  "now": "/service-areas/hemet-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/jurupa-valley-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/jurupa-valley-ca/sewer-camera-inspection/",
+  "now": "/service-areas/jurupa-valley-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-elsinore-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/lake-elsinore-ca/sewer-camera-inspection/",
+  "now": "/service-areas/lake-elsinore-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-mathews-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/lake-mathews-ca/sewer-camera-inspection/",
+  "now": "/service-areas/lake-mathews-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/menifee-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/menifee-ca/sewer-camera-inspection/",
+  "now": "/service-areas/menifee-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mira-loma-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/mira-loma-ca/sewer-camera-inspection/",
+  "now": "/service-areas/mira-loma-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/montclair-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/montclair-ca/sewer-camera-inspection/",
+  "now": "/service-areas/montclair-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/murrieta-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/murrieta-ca/sewer-camera-inspection/",
+  "now": "/service-areas/murrieta-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/norco-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/norco-ca/sewer-camera-inspection/",
+  "now": "/service-areas/norco-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-tustin-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/north-tustin-ca/sewer-camera-inspection/",
+  "now": "/service-areas/north-tustin-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ontario-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/ontario-ca/sewer-camera-inspection/",
+  "now": "/service-areas/ontario-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ontario-ranch-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/ontario-ranch-ca/sewer-camera-inspection/",
+  "now": "/service-areas/ontario-ranch-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pomona-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/pomona-ca/sewer-camera-inspection/",
+  "now": "/service-areas/pomona-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/rialto-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/rialto-ca/sewer-camera-inspection/",
+  "now": "/service-areas/rialto-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/riverside-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/riverside-ca/sewer-camera-inspection/",
+  "now": "/service-areas/riverside-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-bernardino-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/san-bernardino-ca/sewer-camera-inspection/",
+  "now": "/service-areas/san-bernardino-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-jacinto-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/san-jacinto-ca/sewer-camera-inspection/",
+  "now": "/service-areas/san-jacinto-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-ana-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/santa-ana-ca/sewer-camera-inspection/",
+  "now": "/service-areas/santa-ana-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/silverado-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/silverado-ca/sewer-camera-inspection/",
+  "now": "/service-areas/silverado-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sun-city-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/sun-city-ca/sewer-camera-inspection/",
+  "now": "/service-areas/sun-city-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/temecula-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/temecula-ca/sewer-camera-inspection/",
+  "now": "/service-areas/temecula-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/temescal-valley-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/temescal-valley-ca/sewer-camera-inspection/",
+  "now": "/service-areas/temescal-valley-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/trabuco-canyon-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/trabuco-canyon-ca/sewer-camera-inspection/",
+  "now": "/service-areas/trabuco-canyon-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/upland-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/upland-ca/sewer-camera-inspection/",
+  "now": "/service-areas/upland-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/villa-park-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/villa-park-ca/sewer-camera-inspection/",
+  "now": "/service-areas/villa-park-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wildomar-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/wildomar-ca/sewer-camera-inspection/",
+  "now": "/service-areas/wildomar-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/winchester-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/winchester-ca/sewer-camera-inspection/",
+  "now": "/service-areas/winchester-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/woodcrest-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/woodcrest-ca/sewer-camera-inspection/",
+  "now": "/service-areas/woodcrest-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/yorba-linda-ca/camera-inspections-of-drain-and-sewer-line": {
+  "planned": "/service-areas/yorba-linda-ca/sewer-camera-inspection/",
+  "now": "/service-areas/yorba-linda-ca/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
