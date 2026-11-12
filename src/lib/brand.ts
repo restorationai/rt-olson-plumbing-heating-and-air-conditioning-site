@@ -60,7 +60,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "627",
+  gbpReviewCount: "628",
   gbpReviews: [
     { author: "Jennifer", rating: 5, text: "Fast response to service call, very nice and professional, would recommend and use them again.", when: "October 2026" },
     { author: "Barbara", rating: 5, text: "They responded quickly and were very efficient.", when: "October 2026" },
