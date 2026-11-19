@@ -50,7 +50,7 @@ OneStop Plumbers carries a 4.8 Google rating across 1,018 reviews and lists plum
 
 | Company | Google Rating | Reviews | 24/7 Emergency | Licensed |
 |---|---|---|---|---|
-| RT Olson Plumbing, Heating and Air Conditioning | 4.9 | 629 | Yes | Yes (CSLB #997337) |
+| RT Olson Plumbing, Heating and Air Conditioning | 4.9 | 628 | Yes | Yes (CSLB #997337) |
 | Tony's Plumbing & Rooter Inc. | 5.0 | 417 | Not listed | Not listed |
 | Circle City Plumbing and Rooter | 4.9 | 100 | Not listed | Not listed |
 | OneStop Plumbers - Plumbing and Leak Detection | 4.8 | 1,018 | Not listed | Not listed |
