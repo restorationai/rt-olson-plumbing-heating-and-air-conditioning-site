@@ -60,14 +60,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "629",
+  gbpReviewCount: "628",
   gbpReviews: [
+    { author: "Frank", rating: 5, text: "Bob and his team have provided outstanding service throughout the years for me at 2 different homes and several service calls. Bob gets personally involved and responds immediately and most importantly resolves any issues that may arise during the service calls. Thank you Bob and team including his…", when: "November 2026" },
     { author: "Agar23", rating: 5, text: "Great staff and service with competitive pricing. Gas line fixed. HVAC service was very thorough. Ivan went above and beyond.", when: "November 2026" },
     { author: "Jennifer", rating: 5, text: "Fast response to service call, very nice and professional, would recommend and use them again.", when: "October 2026" },
     { author: "Barbara", rating: 5, text: "They responded quickly and were very efficient.", when: "October 2026" },
     { author: "Shane", rating: 5, text: "I had a water leak in my home that resulted in my kitchen flooding due to a faulty dishwasher. I reached out to RT Olson Plumbing, Heating & Air, and I’m grateful for their help during such a stressful situation. Dealing with a flooded kitchen can be overwhelming, but having a plumbing company to…", when: "October 2026" },
     { author: "Ye", rating: 5, text: "Talked with the team at RT Olson Plumbing, Heating and Air Conditioning about how to protect a home from water damage. Friendly, knowledgeable and no pressure. Good to know who to call for plumbing.", when: "October 2026" },
-    { author: "Anssi", rating: 5, text: "I have been working with Bob for years now and they always come in clutch whether it is a leaky pipe, water heater or garbage disposal. His team is very professional and take pride in their work", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "Plumbing, heating & air services in Corona, CA.",
   ctaLabel: "24/7 Emergency Line",
