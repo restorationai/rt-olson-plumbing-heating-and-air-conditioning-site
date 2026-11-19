@@ -42,7 +42,7 @@ const year = new Date().getFullYear();
           return { u, label };
         }).filter(Boolean) as { u: string; label: string }[];
         return socials.length ? (
-          <div class="flex gap-3 mt-5">
+          <div class="flex flex-wrap gap-3 mt-5">
             {socials.map((s2) => (
               <a href={s2.u} target="_blank" rel="noopener noreferrer" aria-label={`${brand.displayName} on ${s2.label}`}
                  class="px-3 py-1.5 rounded-lg border border-navy-900/15 text-xs font-bold text-navy-900/70 no-underline hover:text-primary hover:border-primary transition-colors">
