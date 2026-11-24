@@ -1,1 +1,322 @@
-[]
+[
+ {
+  "slug": "drain-cleaning-corona-ca",
+  "variant": "local",
+  "city": "Corona",
+  "state": "CA",
+  "intent": "city",
+  "h1": "Drain Cleaning in Corona, CA",
+  "metaTitle": "Drain Cleaning in Corona, CA | RT Olson Plumbing",
+  "metaDescription": "24/7 drain cleaning in Corona, CA. Licensed and insured plumbers, upfront pricing, free estimates. Call RT Olson at (951) 344-5596.",
+  "heroSubtitle": "Clogged sink, shower or main line? We find the cause, clear the line and verify flow. Open 24/7.",
+  "heroCta": "Call Now",
+  "serviceLabel": "Drain Cleaning",
+  "heroTrust": [
+   "Open 24/7",
+   "Licensed & Insured",
+   "CA Lic. #997337",
+   "Free Estimates"
+  ],
+  "bodyContent": {
+   "heading": "Drain Cleaning That Finds the Cause",
+   "intro": "A slow drain usually means a clog that has been building for months, from grease and soap scum to tree roots in a clay sewer line. We diagnose the line first, then match the tool to the blockage. Most residential drain cleaning calls wrap up in one to three hours.",
+   "bullets": [
+    "Kitchen sink, shower and bathroom sink clogs",
+    "Main sewer line backups",
+    "Hydro jetting for grease, scale and roots",
+    "Camera inspection when pipe damage is suspected"
+   ],
+   "callout": null
+  },
+  "why": {
+   "heading": "Why Corona Homeowners Call RT Olson",
+   "items": [
+    "Open 24/7",
+    "Licensed and insured, CA Lic. #997337",
+    "Upfront pricing and free estimates",
+    "We diagnose before we clear",
+    "No hydro jetting upsell when a cable will do",
+    "Written scope before any additional work"
+   ]
+  },
+  "steps": {
+   "heading": "How It Works",
+   "items": [
+    {
+     "title": "Call Us",
+     "body": "Tell us which drains are slow or backing up. We are available 24/7."
+    },
+    {
+     "title": "We Diagnose",
+     "body": "We check which fixtures are affected and pick the right tool, cable machine or hydro jetting."
+    },
+    {
+     "title": "We Clear and Verify",
+     "body": "We clear the line, run water to confirm normal flow and tell you what we found."
+    }
+   ]
+  },
+  "closing": {
+   "heading": "Clogged Drain in Corona? Call Now.",
+   "body": "RT Olson Plumbing, Heating and Air Conditioning is licensed, insured and open 24/7. Get upfront pricing and a free estimate. Call (951) 344-5596."
+  },
+  "heroImageUrl": "/images/hero-bg.webp",
+  "featureImageUrl": "/images/services/drain-cleaning.webp"
+ },
+ {
+  "slug": "water-heater-repair-corona-ca",
+  "variant": "local",
+  "city": "Corona",
+  "state": "CA",
+  "intent": "city",
+  "h1": "Water Heater Repair in Corona, CA",
+  "metaTitle": "Water Heater Repair in Corona, CA | RT Olson",
+  "metaDescription": "Water heater repair in Corona, CA, available 24/7. Licensed and insured pros, upfront pricing, free estimates. Same-day service. Call now.",
+  "heroSubtitle": "No hot water, a leak, or a strange noise? Licensed and insured techs available 24/7 with common parts on the truck.",
+  "heroCta": "Call Now",
+  "serviceLabel": "Water Heater Repair",
+  "heroTrust": [
+   "Available 24/7",
+   "Licensed & Insured",
+   "CA Lic. #997337",
+   "Free Estimates"
+  ],
+  "bodyContent": {
+   "heading": "Fast, Honest Water Heater Repair in Corona",
+   "intro": "Not every no hot water call ends in a replacement. Burned out elements, faulty thermostats, corroded anode rods and failing relief valves are often fixed on the same visit. We find what failed and why, so the fix lasts.",
+   "bullets": [
+    "Tank and tankless water heaters",
+    "Common parts carried on the truck",
+    "Written scope before any work begins",
+    "Full heat cycle test before we leave"
+   ],
+   "callout": null
+  },
+  "why": {
+   "heading": "Why Corona Homeowners Call RT Olson",
+   "items": [
+    "Available around the clock, 24/7",
+    "Licensed and insured, CA Lic. #997337",
+    "Based in Corona, serving since 2014",
+    "Upfront pricing and free estimates",
+    "Same-day repair for most single part failures",
+    "We work with all major insurance carriers on water damage claims"
+   ]
+  },
+  "steps": {
+   "heading": "How It Works",
+   "items": [
+    {
+     "title": "Call Us",
+     "body": "Tell us what you're seeing. We'll explain what to do while we're on the way."
+    },
+    {
+     "title": "Full Diagnostic",
+     "body": "We check the burner or elements, thermostat, anode rod, venting and sediment, then give you a written scope."
+    },
+    {
+     "title": "Repair and Verify",
+     "body": "We make the repair, run a full heat cycle, and confirm safe, steady hot water at the tap."
+    }
+   ]
+  },
+  "closing": {
+   "heading": "No Hot Water? Call Now.",
+   "body": "Leaking, noisy, or not heating at all, our licensed Corona techs are available 24/7. Call for same-day water heater service."
+  },
+  "heroImageUrl": "/images/hero-bg.webp",
+  "featureImageUrl": "/images/services/water-heater-repair.webp"
+ },
+ {
+  "slug": "leak-detection-corona-ca",
+  "variant": "local",
+  "city": "Corona",
+  "state": "CA",
+  "intent": "city",
+  "h1": "Leak Detection in Corona, CA",
+  "metaTitle": "Leak Detection in Corona, CA | RT Olson Plumbing",
+  "metaDescription": "Leak detection in Corona, CA. Licensed and insured, open 24/7, free estimates and upfront pricing. Call RT Olson at (951) 344-5596.",
+  "heroSubtitle": "High water bill or hidden leak? We find it with electronic equipment, not guesswork. Open 24/7.",
+  "heroCta": "Call Now",
+  "serviceLabel": "Leak Detection",
+  "heroTrust": [
+   "Open 24/7",
+   "Licensed & Insured",
+   "Free Estimates",
+   "Upfront Pricing"
+  ],
+  "bodyContent": {
+   "heading": "Find the Leak Without Tearing Up Your Home",
+   "intro": "Hidden leaks in walls, under slabs or along buried lines can run for weeks before you see a stain. We use acoustic equipment, thermal imaging and pressure testing to pinpoint the exact spot. Then the repair is targeted, not exploratory.",
+   "bullets": [
+    "Acoustic listening finds escaping water",
+    "Thermal imaging spots moisture behind surfaces",
+    "Pressure decay tests isolate the leaking line",
+    "Tracer gas and ground mics for underground lines"
+   ],
+   "callout": null
+  },
+  "why": {
+   "heading": "Why Corona Homeowners Call RT Olson",
+   "items": [
+    "Serving Corona since 2014",
+    "CA License #997337",
+    "Licensed and insured",
+    "Multiple methods cross-checked before we mark a spot",
+    "Written findings report with photos",
+    "Works with all major insurance carriers"
+   ]
+  },
+  "steps": {
+   "heading": "How It Works",
+   "items": [
+    {
+     "title": "Call Us",
+     "body": "Tell us what you are seeing, from a high water bill to a warm floor. We are open 24/7."
+    },
+    {
+     "title": "We Pinpoint the Leak",
+     "body": "We test the meter and pressure, scan with acoustic and thermal tools, then confirm and mark the exact location."
+    },
+    {
+     "title": "Get Your Report",
+     "body": "You receive a written summary with photos showing where the leak is and what repair is needed."
+    }
+   ]
+  },
+  "closing": {
+   "heading": "Stop Paying for Water You Are Not Using",
+   "body": "Call RT Olson Plumbing, Heating and Air Conditioning at (951) 344-5596 for leak detection in Corona. Free estimates, upfront pricing, open 24/7."
+  },
+  "heroImageUrl": "/images/hero-bg.webp",
+  "featureImageUrl": "/images/services/leak-detection.webp"
+ },
+ {
+  "slug": "emergency-plumbing-corona-ca",
+  "variant": "local",
+  "city": "Corona",
+  "state": "CA",
+  "intent": "city",
+  "h1": "24/7 Emergency Plumbing in Corona, CA",
+  "metaTitle": "24/7 Emergency Plumbing in Corona, CA | RT Olson",
+  "metaDescription": "Emergency plumbing in Corona, CA, 24/7. Licensed and insured plumbers for burst pipes, sewer backups and water heater failures. Call now.",
+  "heroSubtitle": "Burst pipe or sewer backup? Licensed Corona plumbers dispatch around the clock. Call now to stop the water.",
+  "heroCta": "Call Now",
+  "serviceLabel": "Emergency Plumbing",
+  "heroTrust": [
+   "Available 24/7",
+   "Licensed #997337",
+   "Licensed and Insured",
+   "Serving Corona Since 2014"
+  ],
+  "bodyContent": {
+   "heading": "Fast Help When a Pipe Lets Go",
+   "intro": "Burst supply lines, sewer backups and ruptured water heaters don't wait for business hours. RT Olson Plumbing, Heating and Air Conditioning dispatches 24 hours a day, seven days a week across Corona. The faster the water stops, the less damage it does.",
+   "bullets": [
+    "Phone triage to help you shut off water before we arrive",
+    "Camera inspection to find the real failure point",
+    "Trucks stocked for burst lines, clogs and water heater failures",
+    "Photo documentation of the failure and repair for insurance"
+   ],
+   "callout": null
+  },
+  "why": {
+   "heading": "Why Corona Homeowners Call RT Olson",
+   "items": [
+    "Dispatching 24 hours a day, 7 days a week",
+    "Licensed plumber, license #997337",
+    "Licensed and insured",
+    "Based in Corona since 2014",
+    "Fixes the source, not just the symptom",
+    "Photos and documentation insurance adjusters need"
+   ]
+  },
+  "steps": {
+   "heading": "How It Works",
+   "items": [
+    {
+     "title": "Call and Get Guided",
+     "body": "A technician walks you through finding your shutoff valve so the water stops while the crew is on the way."
+    },
+    {
+     "title": "On-Site Diagnosis",
+     "body": "The plumber isolates the line, confirms the source and checks for water in walls, flooring or insulation."
+    },
+    {
+     "title": "Repair and Document",
+     "body": "We stop the loss, then photograph the failure point and completed repair for your insurance claim."
+    }
+   ]
+  },
+  "closing": {
+   "heading": "Water Where It Shouldn't Be? Call Now.",
+   "body": "RT Olson Plumbing, Heating and Air Conditioning answers emergency plumbing calls in Corona 24/7. Call now and we will help you stop the water while a licensed plumber heads your way."
+  },
+  "heroImageUrl": "/images/hero-bg.webp",
+  "featureImageUrl": "/images/services/emergency-plumbing.webp"
+ },
+ {
+  "slug": "ac-repair-corona-ca",
+  "variant": "local",
+  "city": "Corona",
+  "state": "CA",
+  "intent": "city",
+  "h1": "Air Conditioning Repair in Corona, CA",
+  "metaTitle": "Air Conditioning Repair in Corona, CA | RT Olson",
+  "metaDescription": "24/7 air conditioning repair in Corona, CA. Licensed and insured, upfront pricing, free estimates. Call RT Olson to get your AC cooling again.",
+  "heroSubtitle": "AC blowing warm air or short-cycling? We find the real cause and fix it right. Available 24/7.",
+  "heroCta": "Call Now",
+  "serviceLabel": "Air Conditioning Repair",
+  "heroTrust": [
+   "Available 24/7",
+   "Licensed & Insured",
+   "License #997337",
+   "Free Estimates"
+  ],
+  "bodyContent": {
+   "heading": "AC Not Cooling? We Diagnose Before We Replace",
+   "intro": "When your AC quits in Corona heat, you need an accurate fix, not a guess. We measure temperatures, pressures and electrical readings first, so you only pay for the repair you actually need. Most straightforward repairs are completed in a single visit.",
+   "bullets": [
+    "Refrigerant leaks found and sealed, not just topped off",
+    "Capacitors and contactors tested under load",
+    "Coil cleaning and condensate drain clearing",
+    "Thermostat, control board and blower motor repair"
+   ],
+   "callout": null
+  },
+  "why": {
+   "heading": "Why Corona Homeowners Call RT Olson",
+   "items": [
+    "Available 24/7",
+    "Serving Corona since 2014",
+    "Licensed and insured, license #997337",
+    "Upfront pricing and free estimates",
+    "Honest repair or replace advice on older R-22 systems",
+    "Works with all insurance carriers"
+   ]
+  },
+  "steps": {
+   "heading": "How Your AC Repair Works",
+   "items": [
+    {
+     "title": "Measure First",
+     "body": "We check supply and return air temperatures and system pressures to set a baseline before touching anything."
+    },
+    {
+     "title": "Find the Real Cause",
+     "body": "We test refrigerant, electrical parts, coils and airflow so the right part gets fixed the first time."
+    },
+    {
+     "title": "Repair and Retest",
+     "body": "We make the repair, re-measure performance to confirm the fix held, and document all work for your warranty."
+    }
+   ]
+  },
+  "closing": {
+   "heading": "Get Your AC Cooling Again Today",
+   "body": "Warm air, short-cycling or a system that won't turn on? Call RT Olson anytime, day or night. We serve Corona, Norco, Eastvale, Chino Hills, Riverside, Jurupa Valley and Mira Loma."
+  },
+  "heroImageUrl": "/images/hero-bg.webp",
+  "featureImageUrl": "/images/services/ac-repair.webp"
+ }
+]

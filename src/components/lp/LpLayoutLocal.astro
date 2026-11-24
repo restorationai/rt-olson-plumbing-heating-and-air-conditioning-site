@@ -1,0 +1,293 @@
+---
+/*
+ * AD LANDING PAGE, local-business variant ("local"), PPC lane 11-19.
+ * The v2 champion's look (white header, image hero, pink calls to action,
+ * floating call bar, Google Ads tag, click-to-call conversion, DNI swap,
+ * noindex) with NOTHING restoration-specific baked in: every heading, list,
+ * price and review comes from the lp-manifest entry, so a non-restoration
+ * client (Granite Ranch, an RV park) gets a page about its own business.
+ * Sections render only when the manifest gives them content.
+ */
+import "~/styles/global.css";
+import { brand } from "~/lib/brand";
+import Analytics from "~/components/Analytics.astro";
+import DniSwap from "~/components/DniSwap.astro";
+import { Phone, Star, Check, Quote } from "@lucide/astro";
+
+interface Rate { label: string; price: string; note?: string }
+interface Review { name: string; text: string }
+interface Step { title: string; body: string }
+interface Props {
+  h1: string;
+  metaTitle: string;
+  metaDescription: string;
+  heroSubtitle: string;
+  heroCta?: string;
+  serviceLabel: string;
+  city: string | null;
+  state: string | null;
+  heroTrust?: string[];
+  bodyContent: { heading: string; intro: string; bullets: string[]; callout: string | null };
+  rates?: { heading: string; items: Rate[]; footnote?: string };
+  why?: { heading: string; intro?: string; items: string[] };
+  reviews?: { heading: string; items: Review[] };
+  steps?: { heading: string; items: Step[] };
+  closing?: { heading: string; body: string };
+  heroImageUrl?: string;
+  featureImageUrl?: string;
+  closingImageUrl?: string;
+}
+
+const {
+  h1, metaTitle, metaDescription, heroSubtitle, heroCta = "Call Now", serviceLabel, city, state,
+  heroTrust = [], bodyContent, rates, why, reviews, steps, closing,
+  heroImageUrl, featureImageUrl, closingImageUrl,
+} = Astro.props;
+
+const locationLabel = city && state ? `${city}, ${state}` : (city ?? "");
+const PINK = "#f01e5a";
+const gadsId = (brand as any).gadsId as string | undefined;
+const gadsCallConversionLabel = (brand as any).gadsCallConversionLabel as string | undefined;
+const displayPhone = (brand as any).adsTrackingPhone ?? brand.phone;
+const displayPhoneRaw = (brand as any).adsTrackingPhoneRaw ?? brand.phoneRaw;
+---
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>{metaTitle}</title>
+    <meta name="description" content={metaDescription} />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    {gadsId && (
+      <>
+        <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gadsId}`}></script>
+        <script is:inline define:vars={{ gadsId }}>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){ dataLayer.push(arguments); }
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', gadsId);
+        </script>
+      </>
+    )}
+    <Analytics />
+    <DniSwap />
+  </head>
+  <body class="min-h-screen flex flex-col bg-white font-sans antialiased">
+
+    <header class="bg-white border-b border-gray-200 px-6 py-3">
+      <div class="container-wide flex items-center justify-between">
+        <a href="/" aria-label={brand.displayName} class="no-underline flex items-center max-w-[55%] md:max-w-none">
+          {brand.logoUrl ? (
+            <img src={brand.logoUrl} alt={brand.displayName} class="h-9 md:h-11 w-auto shrink-0" loading="eager" />
+          ) : (
+            <span class="font-black uppercase tracking-tight leading-[1.05] text-sm md:text-lg text-gray-900">{brand.displayName}</span>
+          )}
+        </a>
+        <a href={`tel:${displayPhoneRaw}`} class="flex items-center gap-2 font-bold no-underline text-sm whitespace-nowrap" style={`color:${PINK}`}>
+          <Phone size={15} stroke-width={2.5} />
+          {displayPhone}
+        </a>
+      </div>
+    </header>
+
+    <main class="flex-1">
+
+      <section id="lp-hero" class="relative text-white overflow-hidden min-h-[70vh] flex items-center">
+        {heroImageUrl
+          ? (
+            <div class="absolute inset-0 z-0">
+              <img src={heroImageUrl} alt="" aria-hidden="true" class="w-full h-full object-cover object-center" />
+              <div class="absolute inset-0 bg-gray-950/45"></div>
+            </div>
+          )
+          : <div class="absolute inset-0 z-0 bg-gradient-to-br from-gray-900 via-gray-900 to-gray-800"></div>
+        }
+        <div class="relative z-10 container-wide py-20 md:py-24 text-center flex flex-col items-center w-full [text-shadow:0_1px_12px_rgba(0,0,0,0.55)]">
+          {locationLabel && (
+            <div class="text-base md:text-lg font-bold tracking-wide mb-5 pb-1 border-b-2" style={`border-color:${PINK}`}>{locationLabel}</div>
+          )}
+          <h1 class="text-4xl md:text-6xl font-black leading-[1.05] mb-6 text-white max-w-5xl">{h1}</h1>
+          <p class="text-xl md:text-2xl text-white/90 mb-8 max-w-3xl leading-snug">{heroSubtitle}</p>
+          <a href={`tel:${displayPhoneRaw}`}
+             class="inline-flex items-center justify-center gap-2 text-white font-bold text-lg px-12 py-5 rounded-md shadow-xl transition-transform hover:-translate-y-0.5 no-underline mb-4"
+             style={`background:${PINK}`}>
+            <Phone size={20} stroke-width={2.5} /> {heroCta}: {displayPhone}
+          </a>
+          {reviews && reviews.items.length > 0 && (
+            <div class="flex items-center gap-1.5 mb-10 text-yellow-400" aria-label="5 star reviews">
+              {[1,2,3,4,5].map(() => <Star size={22} fill="currentColor" stroke-width={0} />)}
+            </div>
+          )}
+          {heroTrust.length > 0 && (
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6 w-full max-w-4xl">
+              {heroTrust.map((label) => (
+                <div class="flex flex-col items-center text-center gap-2">
+                  <Check size={26} stroke-width={2.5} style={`color:${PINK}`} />
+                  <span class="text-sm md:text-base font-semibold text-white">{label}</span>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </section>
+
+      {rates && rates.items.length > 0 && (
+        <section class="bg-gray-50 py-14 border-b border-gray-200">
+          <div class="container-wide text-center">
+            <h2 class="text-gray-900 text-2xl md:text-3xl font-black mb-8 mt-0">{rates.heading}</h2>
+            <div class="grid gap-5 sm:grid-cols-3 max-w-4xl mx-auto">
+              {rates.items.map((r) => (
+                <div class="bg-white rounded-lg border border-gray-200 p-6 flex flex-col items-center gap-1">
+                  <div class="text-sm font-bold uppercase tracking-wider text-gray-500">{r.label}</div>
+                  <div class="text-4xl font-black text-gray-900">{r.price}</div>
+                  {r.note && <div class="text-sm text-gray-500">{r.note}</div>}
+                </div>
+              ))}
+            </div>
+            {rates.footnote && <p class="text-sm text-gray-500 mt-5 mb-0">{rates.footnote}</p>}
+          </div>
+        </section>
+      )}
+
+      <section class="bg-gray-100 py-16 md:py-20">
+        <div class="container-wide grid md:grid-cols-2 gap-10 items-center">
+          <div class="aspect-[4/3] rounded-lg overflow-hidden bg-gray-200">
+            {featureImageUrl && <img src={featureImageUrl} alt={`${serviceLabel} at ${brand.displayName}`} class="w-full h-full object-cover" loading="lazy" />}
+          </div>
+          <div>
+            <h2 class="text-gray-900 text-2xl md:text-3xl font-black mb-4 mt-0 leading-tight">{bodyContent.heading}</h2>
+            <p class="text-gray-600 mb-6 leading-relaxed">{bodyContent.intro}</p>
+            <ul class="list-none p-0 m-0 mb-6 grid gap-3">
+              {bodyContent.bullets.map((b) => (
+                <li class="flex gap-3 items-start text-gray-800"><Check size={18} stroke-width={3} class="shrink-0 mt-1" style={`color:${PINK}`} /><span>{b}</span></li>
+              ))}
+            </ul>
+            <a href={`tel:${displayPhoneRaw}`} class="inline-flex items-center justify-center gap-2 text-white font-bold px-6 py-3 rounded-md text-sm no-underline" style={`background:${PINK}`}>
+              <Phone size={15} stroke-width={2.5} /> Call {displayPhone}
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {why && why.items.length > 0 && (
+        <section class="bg-white py-16 md:py-20">
+          <div class="container-wide">
+            <h2 class="text-gray-900 text-2xl md:text-3xl font-black mb-3 mt-0 text-center">{why.heading}</h2>
+            {why.intro && <p class="text-gray-600 text-center max-w-2xl mx-auto mb-8">{why.intro}</p>}
+            <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 max-w-5xl mx-auto">
+              {why.items.map((label) => (
+                <div class="flex gap-3 items-start bg-gray-50 rounded-lg p-4">
+                  <Check size={20} stroke-width={3} class="shrink-0 mt-0.5" style={`color:${PINK}`} />
+                  <span class="text-gray-800 font-semibold">{label}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {reviews && reviews.items.length > 0 && (
+        <section class="bg-gray-100 py-16 md:py-20">
+          <div class="container-wide">
+            <h2 class="text-gray-900 text-2xl md:text-3xl font-black mb-8 mt-0 text-center">{reviews.heading}</h2>
+            <div class="grid gap-5 md:grid-cols-3 max-w-6xl mx-auto">
+              {reviews.items.map((r) => (
+                <figure class="bg-white rounded-lg p-6 m-0 flex flex-col gap-3">
+                  <Quote size={22} style={`color:${PINK}`} />
+                  <blockquote class="m-0 text-gray-700 leading-relaxed">{r.text}</blockquote>
+                  <figcaption class="text-sm font-bold text-gray-900">{r.name}</figcaption>
+                </figure>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {steps && steps.items.length > 0 && (
+        <section class="bg-white py-16 md:py-20">
+          <div class="container-wide">
+            <h2 class="text-gray-900 text-2xl md:text-3xl font-black mb-8 mt-0 text-center">{steps.heading}</h2>
+            <ol class="list-none p-0 m-0 grid gap-5 md:grid-cols-3 max-w-5xl mx-auto">
+              {steps.items.map((s, i) => (
+                <li class="bg-gray-50 rounded-lg p-6">
+                  <div class="w-9 h-9 rounded-full text-white font-black flex items-center justify-center mb-3" style={`background:${PINK}`}>{i + 1}</div>
+                  <h3 class="text-gray-900 text-lg font-black mt-0 mb-2">{s.title}</h3>
+                  <p class="text-gray-600 m-0 leading-relaxed">{s.body}</p>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </section>
+      )}
+
+      <section class="relative overflow-hidden">
+        {closingImageUrl
+          ? (
+            <div class="absolute inset-0 z-0">
+              <img src={closingImageUrl} alt="" aria-hidden="true" class="w-full h-full object-cover object-center" />
+              <div class="absolute inset-0 bg-gray-950/60"></div>
+            </div>
+          )
+          : <div class="absolute inset-0 z-0 bg-gradient-to-br from-gray-800 to-gray-950"></div>
+        }
+        <div class="relative z-10 container-wide py-16 md:py-20 text-center text-white flex flex-col items-center">
+          <h2 class="text-white text-2xl md:text-3xl font-black mb-3 mt-0">{closing?.heading ?? bodyContent.heading}</h2>
+          <p class="text-white/85 max-w-2xl mb-6">{closing?.body ?? bodyContent.callout ?? ""}</p>
+          <a href={`tel:${displayPhoneRaw}`} class="inline-flex items-center gap-2 text-white font-bold px-8 py-4 rounded-md no-underline" style={`background:${PINK}`}>
+            <Phone size={16} stroke-width={2.5} /> Call {displayPhone}
+          </a>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="bg-gray-950 text-white/40 text-xs py-8 px-6">
+      <div class="container-wide flex flex-col sm:flex-row justify-between items-center gap-2">
+        <span>© {new Date().getFullYear()} {brand.legalName ?? brand.displayName}. All rights reserved.</span>
+        <div class="flex gap-4">
+          <a href="/privacy/" class="text-white/40 hover:text-white/70 no-underline">Privacy Policy</a>
+          <a href="/terms/" class="text-white/40 hover:text-white/70 no-underline">Terms of Service</a>
+        </div>
+      </div>
+    </footer>
+
+    <div id="lp-floating-cta" class="fixed bottom-0 inset-x-0 z-50 translate-y-full transition-transform duration-300 ease-out bg-white border-t border-gray-200 shadow-[0_-4px_24px_rgba(0,0,0,0.12)]">
+      <div class="container-wide flex items-center justify-between py-3 gap-4">
+        <span class="text-sm md:text-base font-black text-gray-900">{brand.displayName}</span>
+        <a href={`tel:${displayPhoneRaw}`} class="inline-flex items-center gap-2 text-white font-bold px-5 md:px-8 py-3 rounded-md no-underline whitespace-nowrap" style={`background:${PINK}`}>
+          <Phone size={16} stroke-width={2.5} /> Call {displayPhone}
+        </a>
+      </div>
+    </div>
+
+    <script is:inline>
+      (function () {
+        var bar = document.getElementById('lp-floating-cta');
+        var hero = document.getElementById('lp-hero');
+        if (!bar || !hero) return;
+        if ('IntersectionObserver' in window) {
+          new IntersectionObserver(function (entries) {
+            bar.classList.toggle('translate-y-full', entries[0].isIntersecting);
+          }, { rootMargin: '-80px 0px 0px 0px', threshold: 0 }).observe(hero);
+        } else {
+          bar.classList.remove('translate-y-full');
+        }
+      })();
+    </script>
+
+    {gadsCallConversionLabel && (
+      <script is:inline define:vars={{ label: gadsCallConversionLabel }}>
+        document.addEventListener('click', function (e) {
+          var link = e.target.closest && e.target.closest('a[href^="tel:"]');
+          if (link && typeof window.gtag === 'function') {
+            gtag('event', 'conversion', { send_to: label, transport_type: 'beacon' });
+          }
+        });
+      </script>
+    )}
+  </body>
+</html>
